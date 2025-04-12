@@ -15,6 +15,9 @@ public class JavaAppCinfeflix {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        // Criando a interface gráfica
+        Cadastro frmTelaPrin = new Cadastro();
+        frmTelaPrin.setVisible(true); 
     }
     
 }
