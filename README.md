@@ -17,7 +17,7 @@ Projeto desenvolvido em **Java (Swing)** com integração ao **MySQL**, simuland
 
 - ✅ Tela de cadastro de usuários  
 - ✅ Validação de dados e aceite de termos  
-- ✅ Tela de login com autenticação simples  
+- ✅ Tela de Inscrição com autenticação simples  
 - ✅ Conexão com banco de dados para persistência  
 - ✅ Interface estilizada com imagem de fundo e identidade visual inspirada em serviços de streaming  
 - ✅ Armazenamento das informações no banco com data formatada  
