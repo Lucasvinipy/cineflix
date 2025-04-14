@@ -36,4 +36,4 @@ Projeto desenvolvido em **Java (Swing)** com integração ao **MySQL**, simuland
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Lucasvinipy/Pandas_estudo.git
+   git clone https://github.com/Lucasvinipy/https://github.com/Lucasvinipy/cineflix
